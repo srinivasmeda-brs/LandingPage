@@ -1,0 +1,17 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    color:white;
+    font-weight:bold;
+    font-size:50px;
+}
+
+.container{
+     width: 100%;
+     height: 100vh;
+     background-image:url('/images/istockphoto-1195458582-2048x2048.jpg');
+     background-size:conver;
+     display:flex;
+     justify-content: center;
+    align-items:center;
+}
